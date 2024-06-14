@@ -22,3 +22,10 @@ dependencyResolutionManagement {
 
 rootProject.name = "Cocktail"
 include(":app")
+include(":core:data")
+include(":core:database")
+include(":core:designsystem")
+include(":core:domain")
+include(":core:model")
+include(":core:network")
+include(":core:datastore")
